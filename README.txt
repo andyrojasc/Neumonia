@@ -1,4 +1,4 @@
-https://andyrojasc.github.io/Pneumonia/
+https://andyrojasc.github.io/Neumonia/
 
 CREDITS:
 
