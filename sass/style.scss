@@ -658,6 +658,13 @@ h1, h2, h3, h4, h5, h6 {
 	padding-bottom: 40px;
 }
 
+.title {
+	border-top: 3px solid #fff;
+    margin: auto;
+    padding-bottom: 3%;
+    width: 70px;
+  }
+
 .fh5co-project{
 	.project-grid{
 		width: 100%;
@@ -686,12 +693,10 @@ h1, h2, h3, h4, h5, h6 {
 			}
 			h3{
 				margin-bottom: 10px;
-				a{
-					color: $brand-white;
+				
 					&:hover, &:focus{
 						text-decoration: none;
 					}
-				}
 			}
 			span{
 				font-size: 12px;
@@ -734,9 +739,12 @@ h1, h2, h3, h4, h5, h6 {
 	}
 }
 
+.color-btn{
+	background: #050505!important;
+}
 
 .getting-started{
-	background: $brand-primary;
+	background: $brand-white;
 	@include flex();
 	@include flexwrap();
 	// height: 400px;
