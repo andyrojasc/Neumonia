@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="230.09813mm"
-   height="51.716656mm"
-   viewBox="0 0 230.09813 51.716656"
+   width="145.48157mm"
+   height="36.961727mm"
+   viewBox="0 0 145.48157 36.961727"
    version="1.1"
    id="svg8"
    sodipodi:docname="LOGO.svg"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="361.89303"
-     inkscape:cy="102.04377"
+     inkscape:zoom="1.4"
+     inkscape:cx="182.05891"
+     inkscape:cy="-41.570243"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,27 +56,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(214.42806,-95.077866)">
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.56684005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect837"
-       width="9.146451"
-       height="51.716656"
-       x="-182.47072"
-       y="95.077866"
-       ry="4.543582"
-       inkscape:export-xdpi="76.074097"
-       inkscape:export-ydpi="76.074097" />
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.45251769;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect839"
-       width="23.653353"
-       height="6.0862827"
-       x="-165.43985"
-       y="98.613297"
-       ry="2.9145591"
-       inkscape:export-xdpi="76.074097"
-       inkscape:export-ydpi="76.074097" />
+     transform="translate(129.81149,-101.94835)">
     <rect
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56499994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect843"
@@ -98,79 +78,5 @@
          x="-131.09235"
          y="138.91008"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Unispace;-inkscape-font-specification:Unispace;letter-spacing:1.9896661px;fill:#ffffff;stroke-width:1.14361775;">X-RAY</tspan></text>
-    <rect
-       ry="2.9145591"
-       y="139.56212"
-       x="-165.43985"
-       height="6.0862827"
-       width="23.653353"
-       id="rect824"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.45251769;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-xdpi="76.074097"
-       inkscape:export-ydpi="76.074097" />
-    <rect
-       ry="2.9145591"
-       y="124.96085"
-       x="-169.44888"
-       height="6.0862827"
-       width="17.794722"
-       id="rect824-9"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3924956;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-xdpi="76.074097"
-       inkscape:export-ydpi="76.074097" />
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3924956;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect842"
-       width="17.794722"
-       height="6.0862827"
-       x="-169.44888"
-       y="111.09793"
-       ry="2.9145591"
-       inkscape:export-xdpi="76.074097"
-       inkscape:export-ydpi="76.074097" />
-    <rect
-       ry="2.9145591"
-       y="98.235321"
-       x="190.7747"
-       height="6.0862827"
-       width="23.653353"
-       id="rect844"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.45251769;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="scale(-1,1)"
-       inkscape:export-xdpi="76.074097"
-       inkscape:export-ydpi="76.074097" />
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.45251769;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect846"
-       width="23.653353"
-       height="6.0862827"
-       x="190.7747"
-       y="139.18414"
-       ry="2.9145591"
-       transform="scale(-1,1)"
-       inkscape:export-xdpi="76.074097"
-       inkscape:export-ydpi="76.074097" />
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3924956;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect848"
-       width="17.794722"
-       height="6.0862827"
-       x="186.76567"
-       y="124.58288"
-       ry="2.9145591"
-       transform="scale(-1,1)"
-       inkscape:export-xdpi="76.074097"
-       inkscape:export-ydpi="76.074097" />
-    <rect
-       ry="2.9145591"
-       y="110.71996"
-       x="186.76567"
-       height="6.0862827"
-       width="17.794722"
-       id="rect850"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.3924956;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="scale(-1,1)"
-       inkscape:export-xdpi="76.074097"
-       inkscape:export-ydpi="76.074097" />
   </g>
 </svg>
