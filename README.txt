@@ -2,9 +2,6 @@ https://andyrojasc.github.io/Neumonia/
 
 CREDITS:
 
-Basic Template
-http://freehtml5.co/
-
 Bootstrap
 http://getbootstrap.com/
 
@@ -22,6 +19,9 @@ https://www.google.com/fonts/
 
 Icomoon
 https://icomoon.io/app/
+
+Basic Template
+http://freehtml5.co/
 
 Simple Line Icons
 https://github.com/thesabbir/simple-line-icons
