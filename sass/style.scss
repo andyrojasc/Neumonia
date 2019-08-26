@@ -1174,7 +1174,7 @@ h1, h2, h3, h4, h5, h6 {
     height: 100vh;
     display: flex;
     align-items: center;
-    color: antiquewhite;
+		color: antiquewhite;
 }
 
 /* Keeps vid fixed, start top left */
@@ -1185,21 +1185,6 @@ h1, h2, h3, h4, h5, h6 {
     width: 100%;
     height: 100vh;
     overflow: hidden;
-}
-
-@media screen and (max-width: 768px) {
-	// .fullscreen-video-wrap {
-	// 	display: none;
-	// 	video{
-	// 		display: none;
-	// 	}
-	// }
-
-	// .header-overlay {
-	// 	background-image: url(../images/hospital.png)!important; 
-	// 	background-position: center center!important;
-	// 	background-size: cover!important;
-	// }
 }
 
 /* sets video to always 100% height and width */
@@ -1218,7 +1203,10 @@ h1, h2, h3, h4, h5, h6 {
   	max-width:100%;
     background: #225470;
     z-index: 1;
-    opacity: 0.5;
+		opacity: 0.5;
+		background-image: url(https://img.peru21.pe/files/article_content_ec_fotos/uploads/2018/06/09/5b1c8f041f12c.jpeg);
+    background-size: cover;
+    background-position: center; 
 }
 
 .header-content {
