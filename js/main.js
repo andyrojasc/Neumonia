@@ -499,7 +499,7 @@ btn.on('click', function(e) {
 
 
 	var descriptionAnimate = function() {
-		var team = $('#fh5co-team');
+		var team = $('#fh5co-projectDetails');
 		if ( team.length > 0 ) {	
 
 			team.waypoint( function( direction ) {
@@ -643,6 +643,7 @@ btn.on('click', function(e) {
 		footerAnimate();
 		//counter();
 		counterWayPoint();
+		descriptionAnimate();
 
 	});
 
